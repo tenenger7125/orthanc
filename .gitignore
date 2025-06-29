@@ -1,0 +1,4 @@
+/node_modules
+
+/orthanc-db/**
+!/orthanc-db/.gitkeep

@@ -1,0 +1,11 @@
+{
+  "name": "orthanc",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "main": "",
+  "dependencies": {
+    "gitmoji-cli": "^9.7.0"
+  }
+}
