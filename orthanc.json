@@ -7,6 +7,6 @@
   "DicomAet": "ORTHANC",
   "DicomPort": 4242,
   "DicomModalities": {
-	  "express" : ["express", "127.0.0.1", 9999] 
+	  "express" : ["express", "host.docker.internal", 9999] 
   }
 }
