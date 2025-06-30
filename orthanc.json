@@ -1,5 +1,12 @@
 {
   "Name" : "${ORTHANC_NAME} in Docker Compose",
   "StorageDirectory": "/var/lib/orthanc/db",
-  "RemoteAccessAllowed" : true 
+  "RemoteAccessAllowed" : true,
+
+  "DicomCheckModalityHost": false,
+  "DicomAet": "ORTHANC",
+  "DicomPort": 4242,
+  "DicomModalities": {
+	  "express" : ["express", "127.0.0.1", 9999] 
+  }
 }
