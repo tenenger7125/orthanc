@@ -2,3 +2,4 @@
 
 /orthanc-db/**
 !/orthanc-db/.gitkeep
+.DS_Store
